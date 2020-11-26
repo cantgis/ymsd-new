@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/96a070ec-1eef-4009-9562-c009aa2da4dd/deploy-status)](https://app.netlify.com/sites/ymsd-new/deploys)
+
 # 野蛮时代 每日活动时间表
 Daily Events Timetable for BA
 ``` 
